@@ -15,7 +15,7 @@ const maestroRouter = require('./router/maestrosRouter');
 const estudianteRouter = require('./router/estudianterouter');
 const estudiantePadreRouter = require('./router/estudiantePadreRouter');
 const estudianteMateriaRouter = require('./router/estudianteMateriaRouter');
-const citaRouter = require('./router/citasRouter');
+const citasRouter = require('./router/citasRouter');
 const calificacionRouter = require('./router/calificacionRouter');
 const asistenciaRouter = require('./router/asistenciaRouter');
 
